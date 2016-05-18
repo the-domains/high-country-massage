@@ -1,0 +1,28 @@
+name: High Country Massage
+favicon: null
+layout_spectrum: 0.46236250223591924
+typography_spectrum: 0.4486144334077835
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.536632503150031
+  lightness: 0.401747465133667
+  saturation: 0.40080594876781106
+  rhythmicContrast: 0.5816208522301167
+purpose: []
